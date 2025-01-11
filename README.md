@@ -29,8 +29,7 @@ Experienced Software Engineer with 5+ years in full-stack development, specializ
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 
 <br />
+
 ### View My LinkedIn Profile
 <img width= 30px padding=20px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
-<a href="https://www.linkedin.com/in/ashwant-manikoth">
-Here
-</a>
+<a href="https://www.linkedin.com/in/ashwant-manikoth">Here</a>

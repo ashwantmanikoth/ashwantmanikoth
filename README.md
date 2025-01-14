@@ -32,3 +32,6 @@ Experienced Software Engineer with 5+ years in full-stack development, specializ
 
 ### View My LinkedIn Profile
 [<img width= 30px padding=20px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>](https://www.linkedin.com/in/ashwant-manikoth)
+
+[![My Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashwantmanikoth&bg_color=292929&color=ffffff&line=56f500&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+

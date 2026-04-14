@@ -5,7 +5,7 @@
 Experienced Software Engineer with 5+ years in full-stack development, specializing in Java and Spring frameworks. Adept in delivering scalable and high-performance applications in Agile environments. Proven ability to lead teams in designing, coding, and deploying solutions for Saas products.
 
 ## Live Project
-### [TerrapulseNews-Global Threat Intelligence](https://terrapulsenews.com/)
+### [Twentyfournews-Global Threat Intelligence](https://twentyfournews.ca/)
 
 ### ⚡ Languages
 
